@@ -1,4 +1,4 @@
-* :page_with_curl: WebSite **[LoanProyect](https://data-covid19-josur.netlify.app/** :v:
+* :page_with_curl: WebSite **[Covid 19](https://data-covid19-josur.netlify.app/** :v:
 
 ## Available Scripts
 
